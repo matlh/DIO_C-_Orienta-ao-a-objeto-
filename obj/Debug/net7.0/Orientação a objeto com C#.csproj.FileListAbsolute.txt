@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\bin\Debug\net7.0\Orientação a objeto com C#.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\bin\Debug\net7.0\Orientação a objeto com C#.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\bin\Debug\net7.0\Orientação a objeto com C#.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\bin\Debug\net7.0\Orientação a objeto com C#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\bin\Debug\net7.0\Orientação a objeto com C#.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\refint\Orientação a objeto com C#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\Orientação a objeto com C#.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DIO\Orientação a objeto com C#\obj\Debug\net7.0\ref\Orientação a objeto com C#.dll
