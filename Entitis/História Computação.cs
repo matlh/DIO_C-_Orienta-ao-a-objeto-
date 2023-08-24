@@ -14,10 +14,5 @@ namespace Computacao
         {
             this.Nome = Nome;
         }
-
-        public override string ToString()
-        {
-            return this.Nome + "\n" + this.Descricao;
-        }
     }
 }

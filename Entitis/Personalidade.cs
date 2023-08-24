@@ -16,7 +16,7 @@ namespace Computacao
 
         public override string ToString()
         {
-            return this.Nome + "\n";
+            return "Nome:\n"+ this.Nome + "\n\nData de nascimento\n" + this.DataNascimento;
         }
     }
 }
